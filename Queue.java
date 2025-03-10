@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class queueee {
+public class Main{
     public static void main(String[] args) {
         Queue<String> queue= new LinkedList<String>();
 
@@ -34,11 +34,23 @@ public class queueee {
 
         System.out.println(queue.contains("Yusuf Shorkar")); // as queue don't have any elements like "Yusuf Shorkar",
                                                              // it will print false
-
+        
         //Concept needs to remember
-
-        //  System.out.println(queue.search("Super man")); [This is wrong!]
+        //System.out.println(queue.search("Super man")); [This is wrong!]
         //Queue interface doesn't have any "search" method. "search method only can be use in Stack
 
     }
-}
+}  // Don't copy code after this line
+
+
+//Outputs:
+
+true
+[Super Man, Batman, Flash, Salman Khan, Hero Alam]
+5
+Super Man
+[Batman, Flash, Salman Khan, Hero Alam]
+4
+false
+true
+false
