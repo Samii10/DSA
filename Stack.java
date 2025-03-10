@@ -27,11 +27,9 @@ public class Stack {
 
         System.out.println(stack.empty());
     }
-}
-
+} // dont copy codes after this line in your IDE
 
 //outputs of this code:
-
 Red Dead Redemption
 [Minecraft, Valorant, COD, GTA V]
 GTA V
