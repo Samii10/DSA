@@ -20,7 +20,7 @@ public class Stack {
         // So "peek" will print GTA V
 
         System.out.println(stack.search("GTA V")); // it will print 1, as it is the top object after using "pop"
-         System.out.println(stack.search("COD"));  // it will print 2, as it is the second top object GTA V
+        System.out.println(stack.search("COD"));  // it will print 2, as it is the second top object GTA V
         
         System.out.println(stack.search("Red Dead Redemption")); // as we removed it by pop(),it will be not more in memory. print (-1)
         System.out.println(stack.search("Summertime Saga"));// Summertime saga was never in the stack, it will print (-1)
