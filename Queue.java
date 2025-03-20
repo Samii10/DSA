@@ -6,8 +6,8 @@ public class Main{
         Queue<String> queue= new LinkedList<String>();
 
         //Concepts:
-        // In queue, first or the top object is object, which we write at the first, Which is opposite of stack
-        //In stack, first or the top object is object, which we write at the last
+        // In queue, first or the top object is that object, which we write at the first. This is opposite of stack
+        //In stack, first or the top object is that object, which we write at the last
 
         System.out.println(queue.isEmpty()); // we didnt hav added any elements, it will print true
 
