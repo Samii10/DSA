@@ -25,3 +25,19 @@ public class Main {
         }
     }
 }
+
+Outputs:  
+Before sorting
+6 
+5 
+7 
+3 
+9 
+1 
+After sorting
+1
+3
+5
+6
+7
+9
