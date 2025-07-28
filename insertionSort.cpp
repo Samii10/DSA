@@ -8,6 +8,7 @@ int main(){
     int n=sizeof(a)/sizeof(a[0]);
     int i, j;
 
+    //Sorting in ascending order
     for(i=1; i<n; i++){
         temp= a[i];
         j=i-1;
@@ -22,6 +23,9 @@ cout<<"Sorted array: ";
     for (i=0; i<n;i++) {
         cout<<a[i]<<" ";
     }
-    cout<<endl;
-
 }
+
+
+output:
+Sorted array: 0 1 3 3 4 6
+
