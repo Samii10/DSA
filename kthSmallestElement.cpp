@@ -34,8 +34,6 @@ int main(){
     }
     else
         cout<<"Error! Not Found.:;
-
     return 0;
-
-
 }
+
