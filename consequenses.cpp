@@ -1,3 +1,5 @@
+// Ques: Find the Longest Consecutive Subsequence after sorting an array
+
 #include <iostream>
 
 using namespace std;
@@ -44,10 +46,15 @@ Sort(arr, n);
 result=max(result, cnt);
 }
 
-cout<<result;
+cout<<"Longest subsequence is: "<< result;
 
 }
 
-
+//Dont copy these from here in your compiler 
+Output: 
+enter elements number:                                         
+7
+Enter the elements of the array: 1 9 3 10 4 20 2
+Longest subsequence is: 4
 
 
