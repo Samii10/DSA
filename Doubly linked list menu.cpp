@@ -1,5 +1,3 @@
-//ID: 0112330678
-//Name: Md. Golam Bin As-Sami
 #include<iostream>
 using namespace std;
 
@@ -300,4 +298,5 @@ while(true){
     }
 }
 }
+
 
