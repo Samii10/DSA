@@ -1,6 +1,8 @@
+/*Given an array, find all the indices where a target integer appears. Return an array
+of indices. If the target does not appear, return an empty array.*/
+
 #include<iostream>
 using namespace std;
-
 
 int main(){
     int n,k;
@@ -38,3 +40,4 @@ int main(){
     }
 
 }
+
