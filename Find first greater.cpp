@@ -1,3 +1,6 @@
+/*Find the first element in an array of integers that is greater than a given target. If
+no such element exists, return -1.*/
+
 #include<iostream>
 using namespace std;
 
@@ -37,3 +40,4 @@ int main(){
     }
     return 0;
 }
+
