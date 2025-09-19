@@ -1,3 +1,6 @@
+/*Implement binary search in a sorted array to locate a target value. Return the
+index of the target if found; otherwise, return -1.*/
+
 #include<iostream>
 using namespace std;
 
@@ -40,3 +43,4 @@ int main(){
         cout<<"Not found!"<<endl;
     }
 }
+
