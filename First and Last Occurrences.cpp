@@ -1,3 +1,6 @@
+/*Given a sorted array, find the first and last positions of a target value. If the target
+is not found, return (-1, -1).*/
+
 #include<iostream>
 using namespace std;
 
@@ -84,3 +87,4 @@ int main(){
 
     return 0;
 }
+
