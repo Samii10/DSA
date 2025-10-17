@@ -1,3 +1,6 @@
+/*This program builds an undirected graph using an adjacency matrix ,
+where entering 1 for a connection between two vertices automatically sets both graph[i][j] and graph[j][i] to 1, then displays the final matrix.*/
+
 #include<iostream>
 using namespace std;
 
@@ -39,3 +42,4 @@ int main(){
 
     return 0;
 }
+
